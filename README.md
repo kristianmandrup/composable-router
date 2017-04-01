@@ -2,6 +2,8 @@
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/composable-router.svg)](https://greenkeeper.io/)
+
 ![Crossroads - JavaScript Routes](https://github.com/millermedeiros/crossroads.js/raw/master/_assets/crossroads_logo.png)
 
 
